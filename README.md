@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rgaikar03
-- 👀 I’m interested in ...new things
+- 👀 I’m interested in ...which can grow me
+- 
 - 🌱 I’m currently learning ...Salesforce
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
